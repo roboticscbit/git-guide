@@ -10,7 +10,7 @@ For Linux users : ```sudo apt install git-all``` in Terminal
 
 ## Version
 
-git --version
+```git --version```
 
 ## Set Config Values (Only once)
 
