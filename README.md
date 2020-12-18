@@ -14,9 +14,9 @@ For Linux users : ```sudo apt install git-all``` in Terminal
 
 ## Set Config Values (Only once)
 
-```git config –global user.name “name”```
+```git config –-global user.name “name”```
 
-```git config –global user.email “name@email.com”```
+```git config –-global user.email “name@email.com”```
 
 ## To push the changes to GitHub (First Time)
 
